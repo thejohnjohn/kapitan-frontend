@@ -1,3 +1,3 @@
-# Tech People #3 - Frontiend
+# Kapitan - Frontend
 
-A front-end part of Project #3
+Webapp to manage projects.
